@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <Title>Ribbon.HtmlRenderer</Title>
+    <Version>1.0.0.0</Version>
+    <Authors>
+      WebCapture:
+        - ｌｉｌａｈ ▸ 🎀
+      HtmlRenderer:
+        - José Manuel Menéndez Poo (HtmlRenderer)
+        - Arthur Teplitzki(H
+    </Authors>
+    <Copyright>
+      Derived from fork of HtmlRenderer:
+        - Copyright (c) 2009, José Manuel Menéndez Poo
+        - Copyright (c) 2013, Arthur Teplitzki
+    </Copyright>
+    <Description>
+      Simplified fork of TheArtOfDev.HtmlRenderer
+        - Render and capture web page as an image
+        - Target netstandard2.0 
+    </Description>
+    <PackageLicenseUrl>https://github.com/xxami/htmlrenderer-dotnetcore/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/xxami/htmlrenderer-dotnetcore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/xxami/htmlrenderer-dotnetcore</RepositoryUrl>
+    <PackageTags>render html graphics</PackageTags>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>
