@@ -10,13 +10,13 @@
 // - Sun Tsu,
 // "The Art of War"
 
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Handlers;
-using TheArtOfDev.HtmlRenderer.Core.Parse;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using Ribbon.HtmlRenderer.Adapters;
+using Ribbon.HtmlRenderer.Adapters.Entities;
+using Ribbon.HtmlRenderer.Core.Handlers;
+using Ribbon.HtmlRenderer.Core.Parse;
+using Ribbon.HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Dom
+namespace Ribbon.HtmlRenderer.Core.Dom
 {
     /// <summary>
     /// CSS box for hr element.

@@ -16,9 +16,9 @@ using System.ComponentModel;
 using System.IO;
 using System.Net;
 using System.Threading;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using Ribbon.HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Handlers
+namespace Ribbon.HtmlRenderer.Core.Handlers
 {
     /// <summary>
     /// On download file async complete, success or fail.

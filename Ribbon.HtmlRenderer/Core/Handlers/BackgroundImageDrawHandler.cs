@@ -11,11 +11,11 @@
 // "The Art of War"
 
 using System;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Dom;
+using Ribbon.HtmlRenderer.Adapters;
+using Ribbon.HtmlRenderer.Adapters.Entities;
+using Ribbon.HtmlRenderer.Core.Dom;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Handlers
+namespace Ribbon.HtmlRenderer.Core.Handlers
 {
     /// <summary>
     /// Contains all the paint code to paint different background images.

@@ -13,9 +13,9 @@
 using System;
 using System.Drawing;
 using System.Windows.Forms;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using Ribbon.HtmlRenderer.Adapters.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms.Utilities
+namespace Ribbon.HtmlRenderer.WinForms.Utilities
 {
     /// <summary>
     /// Utilities for converting WinForms entities to HtmlRenderer core entities.

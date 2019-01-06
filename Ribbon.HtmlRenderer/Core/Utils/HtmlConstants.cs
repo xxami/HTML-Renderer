@@ -1,4 +1,4 @@
-namespace TheArtOfDev.HtmlRenderer.Core.Utils
+namespace Ribbon.HtmlRenderer.Core.Utils
 {
     /// <summary>
     /// Defines HTML strings

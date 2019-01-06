@@ -11,9 +11,9 @@
 // "The Art of War"
 
 using System.Collections.Generic;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
+using Ribbon.HtmlRenderer.Core.Utils;
 
-namespace TheArtOfDev.HtmlRenderer.Core.Dom
+namespace Ribbon.HtmlRenderer.Core.Dom
 {
     internal sealed class HtmlTag
     {

@@ -15,7 +15,7 @@
         - Copyright (c) 2013, Arthur Teplitzki
     </Copyright>
     <Description>
-      Simplified fork of TheArtOfDev.HtmlRenderer
+      Simplified fork of Ribbon.HtmlRenderer
         - Render and capture web page as an image
         - Target netstandard2.0 
     </Description>

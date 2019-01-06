@@ -12,9 +12,9 @@
 
 using System;
 using System.Drawing;
-using TheArtOfDev.HtmlRenderer.Adapters;
+using Ribbon.HtmlRenderer.Adapters;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms.Adapters
+namespace Ribbon.HtmlRenderer.WinForms.Adapters
 {
     /// <summary>
     /// Adapter for WinForms Font object for core.

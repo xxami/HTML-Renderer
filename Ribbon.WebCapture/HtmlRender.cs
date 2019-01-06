@@ -15,13 +15,13 @@ using System.Drawing;
 using System.Drawing.Drawing2D;
 using System.Drawing.Imaging;
 using System.Drawing.Text;
-using TheArtOfDev.HtmlRenderer.Core;
-using TheArtOfDev.HtmlRenderer.Core.Entities;
-using TheArtOfDev.HtmlRenderer.Core.Utils;
-using TheArtOfDev.HtmlRenderer.WinForms.Adapters;
-using TheArtOfDev.HtmlRenderer.WinForms.Utilities;
+using Ribbon.HtmlRenderer.Core;
+using Ribbon.HtmlRenderer.Core.Entities;
+using Ribbon.HtmlRenderer.Core.Utils;
+using Ribbon.HtmlRenderer.WinForms.Adapters;
+using Ribbon.HtmlRenderer.WinForms.Utilities;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms
+namespace Ribbon.HtmlRenderer.WinForms
 {
     /// <summary>
     /// Standalone static class for simple and direct HTML rendering.<br/>

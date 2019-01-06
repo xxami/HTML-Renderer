@@ -11,9 +11,9 @@
 // "The Art of War"
 
 using System;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using Ribbon.HtmlRenderer.Adapters.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.Adapters
+namespace Ribbon.HtmlRenderer.Adapters
 {
     /// <summary>
     /// Adapter for platform specific context menu - used to create and show context menu at specific location.<br/>

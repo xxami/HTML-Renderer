@@ -12,10 +12,10 @@
 
 using System;
 using System.Drawing.Drawing2D;
-using TheArtOfDev.HtmlRenderer.Adapters;
-using TheArtOfDev.HtmlRenderer.Adapters.Entities;
+using Ribbon.HtmlRenderer.Adapters;
+using Ribbon.HtmlRenderer.Adapters.Entities;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms.Adapters
+namespace Ribbon.HtmlRenderer.WinForms.Adapters
 {
     /// <summary>
     /// Adapter for WinForms graphics path object for core.

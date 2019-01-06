@@ -14,11 +14,11 @@ using System;
 using System.Text;
 using System.Windows.Forms;
 
-namespace TheArtOfDev.HtmlRenderer.WinForms.Utilities
+namespace Ribbon.HtmlRenderer.WinForms.Utilities
 {
     /// <summary>
     /// Helper to encode and set HTML fragment to clipboard.<br/>
-    /// See http://theartofdev.wordpress.com/2012/11/11/setting-html-and-plain-text-formatting-to-clipboard/.<br/>
+    /// See http://Ribbon.wordpress.com/2012/11/11/setting-html-and-plain-text-formatting-to-clipboard/.<br/>
     /// <seealso cref="CreateDataObject"/>.
     /// </summary>
     /// <remarks>
